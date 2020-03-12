@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="29" viewBox="0 0 31 29">
+  <g id="icone_location" transform="translate(-0.014)">
+    <g id="Elipse_3" data-name="Elipse 3" transform="translate(0.014)" fill="none" stroke="#fff" stroke-width="1">
+      <ellipse cx="15.5" cy="14.5" rx="15.5" ry="14.5" stroke="none"/>
+      <ellipse cx="15.5" cy="14.5" rx="15" ry="14" fill="none"/>
+    </g>
+    <g id="google-place" transform="translate(9.898 6.924)">
+      <path id="Caminho_19" data-name="Caminho 19" d="M78.966,0a5.441,5.441,0,0,0-5.643,5.421c0,3.471,3.349,5.989,5.226,9.612a.258.258,0,0,0,.457,0c1.7-3.259,4.6-5.445,5.138-8.585A5.511,5.511,0,0,0,78.966,0Zm-.189,8.263a2.841,2.841,0,1,1,2.857-2.841A2.849,2.849,0,0,1,78.778,8.266Z" transform="translate(-73.323 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
