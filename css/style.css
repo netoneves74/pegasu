@@ -504,3 +504,161 @@ footer p {
         text-align: center;
     }
 }
+
+
+/* Pagina Projetos */
+
+.header-projetos {
+    background: #192951;
+}
+
+.header-container {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.logo-container {
+    text-align: center;
+    padding: 15px 0;
+}
+
+.logo-container::after {
+    content: '';
+    background: #22386e;
+    width: 960px;
+    height: 1px;
+    display: block;
+    margin: 0 auto;
+    position: relative;
+    top: 15px;
+}
+
+@media (max-width: 959px) {
+    .logo-container {
+        display: none;
+    }
+    .header-container {
+        width: 300px;
+        margin: 0 auto;
+    }
+    .logo-container::after {
+        display: none;
+    }
+}
+
+.logo-projetos img {
+    max-width: 50px;
+}
+
+.titulo-projeto-container {
+    display: flex;
+    color: #F2ECE0;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 30px 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.titulo-projeto {
+    display: flex;
+    margin-left: 50px;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.titulo-projeto h1 {
+    font-size: 2em;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+}
+
+.titulo-projeto p {
+    font-size: 0.75em;
+}
+
+@media (max-width: 959px) {
+    .logo-projetos img {
+        max-width: 40px;
+    }
+    .titulo-projeto-container {
+        padding: 30px 0;
+    }
+    .titulo-projeto h1 {
+        font-size: 1em;
+        text-transform: uppercase;
+        margin-bottom: 5px;
+    }
+    .titulo-projeto p {
+        font-size: 0.6em;
+    }
+    .btn-voltar img {
+        max-width: 50px;
+        display: block;
+    }
+}
+
+
+/* Conteudo Projeto */
+
+.paragrafo-container {
+    max-width: 960px;
+    margin: 0 auto;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.paragrafo-container h2 {
+    font-size: 2em;
+    text-transform: uppercase;
+}
+
+.paragrafo-container p {
+    margin: 30px 0;
+    line-height: 1.6em;
+    font-size: 1em;
+}
+
+.paragrafo-container img {
+    max-width: 100%;
+    display: block;
+}
+
+@media (max-width: 959px) {
+    .paragrafo-container {
+        max-width: 300px;
+        text-align: center;
+    }
+    .paragrafo-container img {
+        max-width: 100%;
+        display: block;
+    }
+}
+
+
+/* Galeria Projetos */
+
+.galeria-projetos-container {
+    max-width: 960px;
+    margin: 50px auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.img-galeria {
+    margin: 7px;
+}
+
+.img-galeria img {
+    max-width: 100%;
+    display: block;
+}
+
+@media (max-width: 959px) {
+    .galeria-projetos-container {
+        max-width: 300px;
+        justify-content: center;
+    }
+    .img-galeria img {
+        max-width: 100%;
+        display: block;
+    }
+}
