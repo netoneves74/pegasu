@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="31" height="31" viewBox="0 0 31 31">
+  <g id="icone-contato-insta" transform="translate(0.244)">
+    <g id="Elipse_3" data-name="Elipse 3" transform="translate(-0.244)" fill="none" stroke="#d99725" stroke-width="1">
+      <circle cx="15.5" cy="15.5" r="15.5" stroke="none"/>
+      <circle cx="15.5" cy="15.5" r="15" fill="none"/>
+    </g>
+    <g id="instagram" transform="translate(8.18 8.122)">
+      <path id="Caminho_14" data-name="Caminho 14" d="M10.181,0h-6.4A3.783,3.783,0,0,0,0,3.779v6.4a3.783,3.783,0,0,0,3.779,3.779h6.4a3.783,3.783,0,0,0,3.779-3.779v-6.4A3.783,3.783,0,0,0,10.181,0ZM6.98,10.8A3.817,3.817,0,1,1,10.8,6.98,3.822,3.822,0,0,1,6.98,10.8Zm3.909-6.734a1.128,1.128,0,1,1,1.128-1.128A1.129,1.129,0,0,1,10.889,4.063Zm0,0" transform="translate(0 0)" fill="#d99725"/>
+      <path id="Caminho_15" data-name="Caminho 15" d="M20.966,17.967a3,3,0,1,0,3,3A3,3,0,0,0,20.966,17.967Zm0,0" transform="translate(-13.986 -13.986)" fill="#d99725"/>
+      <path id="Caminho_16" data-name="Caminho 16" d="M48.051,11.85a.31.31,0,1,0,.31.31A.31.31,0,0,0,48.051,11.85Zm0,0" transform="translate(-37.162 -9.224)" fill="#d99725"/>
+    </g>
+  </g>
+</svg>
